@@ -1,5 +1,8 @@
 # README
 
+## Project baseline for post on Rspec testing in a Rails project
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
